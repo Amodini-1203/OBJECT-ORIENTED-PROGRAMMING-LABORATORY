@@ -1,0 +1,14 @@
+Main Thread and Generated Number is 6
+New Thread 6 is EVEN and Square of 6 is: 36
+
+Main Thread and Generated Number is 98
+New Thread 98 is EVEN and Square of 98 is: 9604
+
+Main Thread and Generated Number is 78
+New Thread 78 is EVEN and Square of 78 is: 6084
+
+Main Thread and Generated Number is 58
+New Thread 58 is EVEN and Square of 58 is: 3364
+
+Main Thread and Generated Number is 94
+New Thread 94 is EVEN and Square of 94 is: 8836
