@@ -1,0 +1,14 @@
+amodini
+File Name: amodini
+Path: amodini
+Abs Path: C:\Users\SANDHYA\Desktop\amodini OOPS\amodini
+Parent: null
+This file is: Does not exist
+Is file: false
+Is Directory: false
+Is Readable: false
+Is Writable: false
+Is Absolute: false
+File Last Modified: 0
+File Size: 0 bytes
+Is Hidden: false
