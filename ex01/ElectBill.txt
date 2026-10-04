@@ -1,0 +1,16 @@
+
+Enter Consumer number = 101
+
+Enter Consumer name = Amodini
+
+Enter the type of connection = domestic
+
+Enter pre_month reading = 101
+
+Enter current_month reading = 200
+
+Customer name = Amodini
+
+Total units = 99.0
+
+Total bill = Rs 99.0
